@@ -1,0 +1,51 @@
+#botones{
+    margin-left: 13%;
+}
+.margin-left{
+    margin-left:  1% !important;
+}
+
+#imagen{
+    padding: 10px;
+    margin: 10px;
+    height: 400px;
+    width: auto;
+    border-radius: 20% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+#imagenprincipal{
+    padding: 10px;
+    margin: 10px;
+    height: 600px;
+    width: auto;
+    border-radius: 20% !important;
+    position: absolute;
+    top: 22%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+#parrafo1{
+    position: absolute;
+    top: 800px;
+    left: 10%;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    color:white !important;
+}
+#imagen2{
+    position: absolute;
+    top: 550px;
+    left: 10%;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    color:white !important;
+}
